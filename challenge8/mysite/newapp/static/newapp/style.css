@@ -1,0 +1,121 @@
+.form{
+    margin: 10px;
+}
+
+.btn:hover{
+    background-color: white;
+    color: black;
+    border: black solid;
+}
+
+.outer{
+    background-image: url("blue.jpg");
+    margin: auto;
+    height: 100px;
+    padding: 2px;
+    position:fixed;
+    top: 0;
+    width: 100%;
+}
+
+h1{
+    width: 600px;
+    padding: 20px 0px 0px;
+    text-align: left;
+    font-family: Impact;
+    color: white;
+}
+
+.input{
+    border: solid lightsteelblue 3px;
+    border-radius: 3px;
+    text-align: center;
+    width: 200px;
+    height: 35px;
+    display: inline;
+}
+.btn{
+    width: 100px;
+    border: lightgrey solid 1px;
+    border-radius: 10px;
+    background-color: black;
+    font-family: "Yu Gothic";
+    color: white;
+    display: inline;
+}
+
+.col{
+    padding: 10px;
+    margin: auto ;
+}
+
+.row {
+    background-color: #EFF5FE;
+    width: 100%;
+    padding: 3px;
+    margin: 10px auto;
+    border: steelblue solid 1px;
+}
+
+#pic{
+    margin: 0px 200px;
+    border: black solid 5px;
+}
+
+#info{
+    font-size: 18px;
+    font-family: "Calibri";
+    color: darkslateblue;
+}
+
+#pages{
+    text-align: center;
+    font-size: 17px;
+    background-image: url("blue.jpg");
+    opacity: 90%;
+    color: white;
+    height: 50px;
+    padding: 10px;
+}
+
+.pg{
+    background-color: white;
+    color: black;
+    padding: 5px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.pg:hover{
+    color:white;
+    background-color: black;
+}
+
+.home{
+    margin: 0px 40px;
+    color: white;
+    width: auto;
+    nav-left: auto;
+}
+
+.home:hover{
+    color: black;
+}
+
+#nav{
+    background-color: transparent;
+}
+
+.col-md-6{
+    text-align: right;
+}
+
+.top{
+    margin:110px;
+}
+
+.txt_info{
+    color: midnightblue;
+    font-family: Calibri;
+    font-size: 21px;
+}
